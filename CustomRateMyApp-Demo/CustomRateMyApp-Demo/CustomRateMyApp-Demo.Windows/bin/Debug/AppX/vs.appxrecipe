@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>D1CXRD12</Machine>
+    <WindowsUser>d.delaire</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6f9ae5ff-3254-4e1b-8ac3-46d08fe30047</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>67E136ED14EE3FD4A60DAE68BBE92006ACE7E7AED8A1331028F9A9322F761C36</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6f9ae5ff-3254-4e1b-8ac3-46d08fe30047_1.0.0.0_neutral__c8gqk74rtvd9j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6f9ae5ff-3254-4e1b-8ac3-46d08fe30047_c8gqk74rtvd9j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6f9ae5ff-3254-4e1b-8ac3-46d08fe30047</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=d.delaire</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-12T18:03:58.969</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\CustomRateMyApp-Demo.Windows.exe">
+      <PackagePath>CustomRateMyApp-Demo.Windows.exe</PackagePath>
+      <Modified>2014-11-12T18:03:58.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Shared\Assests\Rating_5_Stars.png">
+      <PackagePath>Assests\Rating_5_Stars.png</PackagePath>
+      <Modified>2014-11-12T04:01:55.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-12T04:42:00.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\Controls\RateUserControl.xbf">
+      <PackagePath>Controls\RateUserControl.xbf</PackagePath>
+      <Modified>2014-11-12T18:03:58.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+      <Modified>2014-11-12T18:03:58.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\CustomRateMyApp-Demo.Windows.xr.xml">
+      <PackagePath>CustomRateMyApp-Demo.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-12T18:03:58.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-12T18:03:58.859</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

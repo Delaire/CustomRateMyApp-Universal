@@ -1,0 +1,1 @@
+C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.WindowsPhone\CustomRateMyApp-Demo.WindowsPhone.csproj;neutral

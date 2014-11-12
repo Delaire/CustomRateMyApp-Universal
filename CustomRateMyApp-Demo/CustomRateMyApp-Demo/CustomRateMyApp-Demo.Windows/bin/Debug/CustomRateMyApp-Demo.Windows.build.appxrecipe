@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>D1CXRD12</Machine>
+    <WindowsUser>d.delaire</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6f9ae5ff-3254-4e1b-8ac3-46d08fe30047</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\CustomRateMyApp-Demo.Windows.exe">
+      <PackagePath>CustomRateMyApp-Demo.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Shared\Assests\Rating_5_Stars.png">
+      <PackagePath>Assests\Rating_5_Stars.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\Controls\RateUserControl.xbf">
+      <PackagePath>Controls\RateUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\CustomRateMyApp-Demo.Windows.xr.xml">
+      <PackagePath>CustomRateMyApp-Demo.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\d.delaire\Documents\GitHub\CustomRateMyApp-Universal\CustomRateMyApp-Demo\CustomRateMyApp-Demo\CustomRateMyApp-Demo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
