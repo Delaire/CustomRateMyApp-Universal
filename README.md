@@ -19,7 +19,14 @@ This code is to be used as is, i cannot garanty that this code will work everywh
 I will try to add more tutorial on how i use different components in Windows Phone, Windows Store and Universal Windows Apps
 Damien
 
+## Supported Platforms
+* Windows Store
+* Windows Phone
+* Windows Universal
 
-License
+## Contribute	
+Please help out
+
+##License
 
 This project is licensed under the MIT license.
