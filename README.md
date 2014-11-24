@@ -1,4 +1,4 @@
-CustomRateMyApp for Universal Apps (C#/XAML)
+Custom Rate My App for Universal Apps (C#/XAML)
 =========================
 How to Implement a Custom Rate My App Control
 
